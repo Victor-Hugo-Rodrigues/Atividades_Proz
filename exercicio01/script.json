@@ -1,0 +1,31 @@
+
+
+[
+    {
+        "id": 1,
+        "nome": "Smartphone XYZ",
+        "marca": "TechCo",
+        "categoria": "Eletrônicos",
+        "preco": 799.99,
+        "quantidade_estoque": 50,
+        "disponivel_pronta_entrega": true
+    },
+    {
+        "id": 2,
+        "nome": "Tênis de Corrida ABC",
+        "marca": "SportFit",
+        "categoria": "Esportes",
+        "preco": 129.99,
+        "quantidade_estoque": 30,
+        "disponivel_pronta_entrega": false
+    },
+    {
+        "id": 3,
+        "nome": "Livro: Aventuras no Espaço",
+        "marca": "BookWorld",
+        "categoria": "Livros",
+        "preco": 19.99,
+        "quantidade_estoque": 20,
+        "disponivel_pronta_entrega": true
+    }
+]
